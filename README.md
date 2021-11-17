@@ -1,2 +1,4 @@
 # textmining
-Entrega preliminar para la materia Text mining. El procedimiento está explicado en el notebook de Google Colab.
+Proyectos para la materia Text mining, FAMAF, Universidad Nacional de Córdoba, 2021. 
+
+El procedimiento usado está explicado en el notebook de Google Colab correspondiente.
